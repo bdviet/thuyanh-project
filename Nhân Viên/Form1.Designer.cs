@@ -543,7 +543,7 @@
             this.Controls.Add(this.nvstDataGridView);
             this.ForeColor = System.Drawing.Color.Maroon;
             this.Name = "Form1";
-            this.Text = "QUẢN LÝ NHÂN VIÊN SIÊU THỊ";
+            this.Text = "PHẦN MỀM QUẢN LÝ NHÂN SỰ KHÁCH SẠN CENTURY - V1.0.0";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nvstDataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nvstBindingSource)).EndInit();

@@ -11,17 +11,3 @@ D:\Quản Lý Nhân Viên\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân_Viên.frmL
 D:\Quản Lý Nhân Viên\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân_Viên.REPORT.resources
 D:\Quản Lý Nhân Viên\Nhân Viên\Nhân Viên\obj\x86\Debug\RdlCompile.cache
 D:\Quản Lý Nhân Viên\Nhân Viên\Nhân Viên\obj\x86\Debug\RdlCompile.compiled
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\bin\Debug\Nhân Viên.exe.config
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân Viên.exe
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân Viên.pdb
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\bin\Debug\Nhân Viên.exe
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\bin\Debug\Nhân Viên.pdb
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân Viên.csprojResolveAssemblyReference.cache
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân_Viên.BC.resources
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân_Viên.Form1.resources
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân_Viên.frmLogin.resources
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân_Viên.Properties.Resources.resources
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân_Viên.REPORT.resources
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\Nhân Viên.csproj.GenerateResource.Cache
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\RdlCompile.cache
-C:\Users\TIIN\Desktop\Nhân Viên\Nhân Viên\obj\x86\Debug\RdlCompile.compiled
